@@ -1,0 +1,26 @@
+h3 {
+  text-align: center;
+}
+
+
+.card {
+  width: 150px;
+  height: 100px;
+  border: 3px solid black;
+  display: inline-block;
+  margin: 4px;
+}
+
+button {
+  display: block;
+  margin: 4px auto;
+}
+
+textarea {
+  display: block;
+  margin: 15px auto;
+}
+
+.card p {
+  text-align: center;
+}
