@@ -28,7 +28,7 @@ cd 7-dynamic-cards
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SPA-7-Dynamic-Cards)
 
 
 ![screenshot](dynamic-card-screenshot.jpg)
